@@ -1,0 +1,10 @@
+ManifestFileVersion: 0
+CRC: 2764030657
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: 00_gamehub
+      Dependencies: {}
+    Info_1:
+      Name: 01_game
+      Dependencies: {}
