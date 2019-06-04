@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 2996939125
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: af3add42ec9f3e0748054215654ce167
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 8e55754e2affe28d258710b48255dd27
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 26a8c9f728821fc4297b2766c49ce7ca, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/01_GAME/01_GAME.asset
+- Assets/01_GAME/Sprites/Square.png
+Dependencies: []
