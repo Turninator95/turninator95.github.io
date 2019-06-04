@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 3142279220
+CRC: 2176453297
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 6827223b2abd548dbe438089e438044a
+    Hash: 2570efaca8d89ebfc8e390ce31590f97
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 8e55754e2affe28d258710b48255dd27
+    Hash: ac38ad37d7856aebe8c0a350aacd1a7f
 HashAppended: 0
 ClassTypes:
 - Class: 28
@@ -20,4 +20,6 @@ ClassTypes:
 Assets:
 - Assets/01_GAME/01_GAME.asset
 - Assets/01_GAME/Sprites/ONION.png
+- Assets/02_GAME/02_GAME.asset
+- Assets/02_GAME/Sprites/ONION.png
 Dependencies: []
