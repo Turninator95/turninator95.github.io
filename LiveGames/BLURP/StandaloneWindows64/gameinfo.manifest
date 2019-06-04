@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 2996939125
+CRC: 4260369713
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: af3add42ec9f3e0748054215654ce167
+    Hash: ec8ab959b02d42d548a0f1ad376e4abf
   TypeTreeHash:
     serializedVersion: 2
     Hash: 8e55754e2affe28d258710b48255dd27
@@ -19,5 +19,5 @@ ClassTypes:
   Script: {instanceID: 0}
 Assets:
 - Assets/01_GAME/01_GAME.asset
-- Assets/01_GAME/Sprites/Square.png
+- Assets/01_GAME/Sprites/ONION.png
 Dependencies: []
