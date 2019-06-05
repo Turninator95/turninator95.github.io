@@ -1,15 +1,17 @@
 ManifestFileVersion: 0
-CRC: 2176453297
+CRC: 1923313319
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 2570efaca8d89ebfc8e390ce31590f97
+    Hash: fbb5d9fceed6a1cf7a1021010786b351
   TypeTreeHash:
     serializedVersion: 2
-    Hash: ac38ad37d7856aebe8c0a350aacd1a7f
+    Hash: c5ddfd77e96af2797e669b9d03067c92
 HashAppended: 0
 ClassTypes:
 - Class: 28
+  Script: {instanceID: 0}
+- Class: 83
   Script: {instanceID: 0}
 - Class: 114
   Script: {fileID: 11500000, guid: 26a8c9f728821fc4297b2766c49ce7ca, type: 3}
@@ -18,8 +20,9 @@ ClassTypes:
 - Class: 213
   Script: {instanceID: 0}
 Assets:
+- Assets/01_GAME/Sprites/alpha.png
 - Assets/01_GAME/01_GAME.asset
-- Assets/01_GAME/Sprites/ONION.png
+- Assets/01_GAME/Sounds/shitty noise.wav
 - Assets/02_GAME/02_GAME.asset
 - Assets/02_GAME/Sprites/ONION.png
 Dependencies: []
