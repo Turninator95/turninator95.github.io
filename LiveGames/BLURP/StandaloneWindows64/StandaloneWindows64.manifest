@@ -1,13 +1,10 @@
 ManifestFileVersion: 0
-CRC: 3359086328
+CRC: 1470219069
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
-      Name: 00_gamehub
-      Dependencies: {}
-    Info_1:
       Name: 01_game
       Dependencies: {}
-    Info_2:
+    Info_1:
       Name: gameinfo
       Dependencies: {}

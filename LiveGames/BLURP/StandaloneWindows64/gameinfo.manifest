@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 3643223745
+CRC: 3350775542
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: f882f0095dc849b429a9e30d1d0e91aa
+    Hash: 87da6c3b6cadb4c70ddb3f3504f3efd9
   TypeTreeHash:
     serializedVersion: 2
     Hash: c5ddfd77e96af2797e669b9d03067c92
@@ -21,9 +21,10 @@ ClassTypes:
   Script: {instanceID: 0}
 Assets:
 - Assets/01_GAME/Sprites/alpha.png
-- Assets/01_GAME/01_GAME.asset
+- Assets/00_GAMEHUB/00_TeamInfo.asset
 - Assets/02_GAME/Sprites/wobbly_circle.png
 - Assets/01_GAME/Sounds/shitty noise.mp3
+- Assets/00_GAMEHUB/Sounds/tweeble_jingle.mp3
 - Assets/02_GAME/02_GAME.asset
 - Assets/02_GAME/Sprites/ONION.png
 Dependencies: []
