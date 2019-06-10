@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 3373572588
+CRC: 1754418152
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 69221cd6be26fcd43142f7b9a94eef50
+    Hash: 87e05c5186066e0e4e4c88bd67bb2efc
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 8b11eb8ce9a61521e059aacc18bfa6ec
+    Hash: 585b06cc7db7bcf9f7a3874db6493dcb
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -27,15 +27,19 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 48
   Script: {instanceID: 0}
-- Class: 65
-  Script: {instanceID: 0}
 - Class: 81
   Script: {instanceID: 0}
 - Class: 104
   Script: {instanceID: 0}
 - Class: 108
   Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8ca652c13353f448d9227970c0928082, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
 - Class: 157
+  Script: {instanceID: 0}
+- Class: 215
   Script: {instanceID: 0}
 Assets:
 - Assets/01_GAME/Scenes/MenuScene.unity
