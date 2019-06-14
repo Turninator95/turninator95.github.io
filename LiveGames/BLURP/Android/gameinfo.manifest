@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 1210130107
+CRC: 3487082421
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 5b05c7646ec2ad619ca4240bb1b57bdf
+    Hash: 369f0eb3beba84e14be34e7c786e4b85
   TypeTreeHash:
     serializedVersion: 2
     Hash: c5ddfd77e96af2797e669b9d03067c92
@@ -20,7 +20,7 @@ ClassTypes:
 - Class: 213
   Script: {instanceID: 0}
 Assets:
-- Assets/01_GAME/Sprites/alpha.png
+- Assets/01_GAME/01_DreamCatcher.asset
 - Assets/00_GAMEHUB/00_TeamInfo.asset
 - Assets/02_GAME/Sprites/wobbly_circle.png
 - Assets/01_GAME/Sounds/shitty noise.mp3

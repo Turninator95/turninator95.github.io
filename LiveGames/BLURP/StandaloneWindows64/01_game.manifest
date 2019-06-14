@@ -1,47 +1,16 @@
 ManifestFileVersion: 0
-CRC: 1754418152
+CRC: 2237873594
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 87e05c5186066e0e4e4c88bd67bb2efc
+    Hash: 55fdc4c7f3bd27226e59fd2050d521c8
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 585b06cc7db7bcf9f7a3874db6493dcb
+    Hash: 5ad585dd02dfb5016c0dad519eab8f49
 HashAppended: 0
 ClassTypes:
-- Class: 1
-  Script: {instanceID: 0}
-- Class: 4
-  Script: {instanceID: 0}
-- Class: 20
-  Script: {instanceID: 0}
-- Class: 21
-  Script: {instanceID: 0}
-- Class: 23
-  Script: {instanceID: 0}
-- Class: 28
-  Script: {instanceID: 0}
-- Class: 33
-  Script: {instanceID: 0}
-- Class: 43
-  Script: {instanceID: 0}
-- Class: 48
-  Script: {instanceID: 0}
-- Class: 81
-  Script: {instanceID: 0}
-- Class: 104
-  Script: {instanceID: 0}
-- Class: 108
-  Script: {instanceID: 0}
-- Class: 114
-  Script: {fileID: 11500000, guid: 8ca652c13353f448d9227970c0928082, type: 3}
-- Class: 115
-  Script: {instanceID: 0}
-- Class: 157
-  Script: {instanceID: 0}
-- Class: 215
+- Class: 49
   Script: {instanceID: 0}
 Assets:
-- Assets/01_GAME/Scenes/MenuScene.unity
-- Assets/01_GAME/Scenes/GameScene.unity
+- Assets/01_GAME/JsonFiles/Monsters.json
 Dependencies: []

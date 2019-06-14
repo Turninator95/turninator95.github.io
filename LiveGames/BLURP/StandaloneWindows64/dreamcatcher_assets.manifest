@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 3529882395
+CRC: 1254741270
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: c8d706d270da81186efcd3379368f066
+    Hash: 4fc6c2f0fecd7be40ce980c5b28cb10c
   TypeTreeHash:
     serializedVersion: 2
-    Hash: d4ff521b34d5225f409043cd0acd5c9e
+    Hash: dba74fccb7ac62153b113d5e3d0314fb
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -121,6 +121,7 @@ Assets:
 - Assets/01_GAME/Sprites/placeholder1.png
 - Assets/01_GAME/Prefabs/regal_new.prefab
 - Assets/01_GAME/Resources/Events/MonsterSpawned.asset
+- Assets/01_GAME/3D Assets/whimsical handpainted texture.mat
 - Assets/01_GAME/Sounds/switch01.wav
 - Assets/01_GAME/Sprites/failure screen-sheet.png
 - Assets/01_GAME/Animations/walk in 2.anim
@@ -129,6 +130,7 @@ Assets:
 - Assets/01_GAME/3D Assets/nachttisch.fbx
 - Assets/01_GAME/Prefabs/Main Camera.prefab
 - Assets/01_GAME/3D Assets/wallpaper 1.png
+- Assets/01_GAME/3D Assets/paintingbeautifultexture.png
 - Assets/01_GAME/3D Assets/walls 2.png
 - Assets/01_GAME/Scenes/GameScene_Profiles/Main Camera Profile 1.asset
 - Assets/01_GAME/3D Assets/Gameboi.mat
@@ -136,6 +138,7 @@ Assets:
 - Assets/01_GAME/3D Assets/nightlightOn.mat
 - Assets/01_GAME/Prefabs/GameBoi.prefab
 - Assets/01_GAME/3D Assets/door.prefab
+- Assets/01_GAME/3D Assets/painting.fbx
 - Assets/01_GAME/Sounds/footsteps temp.wav
 - Assets/01_GAME/Resources/Events/Save.asset
 - Assets/01_GAME/3D Assets/walls 3.mat
@@ -160,6 +163,7 @@ Assets:
 - Assets/01_GAME/Sounds/Master.mixer
 - Assets/01_GAME/Animations/walk in 1.anim
 - Assets/01_GAME/Sprites/pressAtocontinue-sheet 1.png
+- Assets/01_GAME/Sounds/TempGameboiNoise.wav
 - Assets/01_GAME/Sprites/saving game-sheet.png
 - Assets/01_GAME/Sounds/switch02.wav
 - Assets/01_GAME/Animations/walk in.anim
