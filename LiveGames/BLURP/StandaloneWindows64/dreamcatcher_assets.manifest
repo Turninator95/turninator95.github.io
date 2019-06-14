@@ -1,0 +1,182 @@
+ManifestFileVersion: 0
+CRC: 3529882395
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c8d706d270da81186efcd3379368f066
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: d4ff521b34d5225f409043cd0acd5c9e
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 20
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 72
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 81
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 108
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 948f4100a11a5c24981795d21301da5c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: adb84e30e02715445aeb9959894e3b4d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 13ab6fa0dd0f83849aa08942af1399f4, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 70432601c5099c8498cd0b71cf45ecf0, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 48a79b01ea5641d4aa6daa2e23605641, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9f380e5145799fe429a3ae33d704f664, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2c63556190358a9449daac53c9b6957c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8ca652c13353f448d9227970c0928082, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8e6292b2c06870d4495f009f912b9600, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 18b6fb833c37f9c418dc3c7787464509, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: bc946116f8836114fa263da7dae8c6ab, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: acfe59669508d55489dd9d7c41eaedf6, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 30f4b897495c7ad40b2d47143e02aaba, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9385f22a835fd0746a965ef6f1dabf3f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8b9a305e18de0c04dbd257a21cd47087, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d65e486e4de6e5448a8fbb43dc8756a0, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 983e3b4f69af4d64bb54a05f4aae0c91, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4b6876224377ef643ac9f752e5aaac9f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 987966fa65deb954e91a99f9403710d7, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 135
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 241
+  Script: {instanceID: 0}
+- Class: 243
+  Script: {instanceID: 0}
+- Class: 245
+  Script: {instanceID: 0}
+Assets:
+- Assets/01_GAME/Sprites/parent_walk.png
+- Assets/01_GAME/Animations/close.anim
+- Assets/01_GAME/Prefabs/SecondCamera.prefab
+- Assets/01_GAME/Sprites/introtext.png
+- Assets/01_GAME/3D Assets/walls 1.mat
+- Assets/01_GAME/Animations/closed.anim
+- Assets/01_GAME/Animations/lose.anim
+- Assets/01_GAME/Animations/walk out.anim
+- Assets/01_GAME/3D Assets/door.fbx
+- Assets/01_GAME/Sprites/parent_lookaround1.png
+- Assets/01_GAME/3D Assets/nightlightOff.mat
+- Assets/01_GAME/Resources/Events/GameResumed.asset
+- Assets/01_GAME/Resources/Events/Failure.asset
+- Assets/01_GAME/Sprites/game saved-sheet.png
+- Assets/01_GAME/Resources/Events/ChanceIncreased.asset
+- Assets/01_GAME/3D Assets/walls 2.mat
+- Assets/01_GAME/Animations/mobile_idle.anim
+- Assets/01_GAME/Sprites/ball_wobble.png
+- Assets/01_GAME/Sprites/placeholder1.png
+- Assets/01_GAME/Prefabs/regal_new.prefab
+- Assets/01_GAME/Resources/Events/MonsterSpawned.asset
+- Assets/01_GAME/Sounds/switch01.wav
+- Assets/01_GAME/Sprites/failure screen-sheet.png
+- Assets/01_GAME/Animations/walk in 2.anim
+- Assets/01_GAME/3D Assets/eyelids.fbx
+- Assets/01_GAME/3D Assets/tweeble_mobile.fbx
+- Assets/01_GAME/3D Assets/nachttisch.fbx
+- Assets/01_GAME/Prefabs/Main Camera.prefab
+- Assets/01_GAME/3D Assets/wallpaper 1.png
+- Assets/01_GAME/3D Assets/walls 2.png
+- Assets/01_GAME/Scenes/GameScene_Profiles/Main Camera Profile 1.asset
+- Assets/01_GAME/3D Assets/Gameboi.mat
+- Assets/01_GAME/3D Assets/gameboiiii.fbx
+- Assets/01_GAME/3D Assets/nightlightOn.mat
+- Assets/01_GAME/Prefabs/GameBoi.prefab
+- Assets/01_GAME/3D Assets/door.prefab
+- Assets/01_GAME/Sounds/footsteps temp.wav
+- Assets/01_GAME/Resources/Events/Save.asset
+- Assets/01_GAME/3D Assets/walls 3.mat
+- Assets/01_GAME/3D Assets/regal_new.fbx
+- Assets/01_GAME/Resources/Events/MonsterDespawned.asset
+- Assets/01_GAME/Resources/Events/Success.asset
+- Assets/01_GAME/Animations/lost.anim
+- Assets/01_GAME/Prefabs/gameboiiii Variant.prefab
+- Assets/01_GAME/Prefabs/walk.anim
+- Assets/01_GAME/3D Assets/room.fbx
+- Assets/01_GAME/Animations/door.controller
+- Assets/01_GAME/Animations/parent.controller
+- Assets/01_GAME/Sprites/success screen-sheet.png
+- Assets/01_GAME/Prefabs/Parent Manager.prefab
+- Assets/01_GAME/Prefabs/parent.prefab
+- Assets/01_GAME/3D Assets/walls.mat
+- Assets/01_GAME/Sprites/window_cookie.png
+- Assets/01_GAME/3D Assets/walls 4.mat
+- Assets/01_GAME/3D Assets/walls2.mat
+- Assets/01_GAME/Resources/Events/BallWobble.asset
+- Assets/01_GAME/3D Assets/on.mat
+- Assets/01_GAME/Sounds/Master.mixer
+- Assets/01_GAME/Animations/walk in 1.anim
+- Assets/01_GAME/Sprites/pressAtocontinue-sheet 1.png
+- Assets/01_GAME/Sprites/saving game-sheet.png
+- Assets/01_GAME/Sounds/switch02.wav
+- Assets/01_GAME/Animations/walk in.anim
+- Assets/01_GAME/3D Assets/panel_seamless 1.png
+- Assets/01_GAME/3D Assets/bedspread.mat
+- Assets/01_GAME/Sounds/door open.wav
+- Assets/01_GAME/3D Assets/room.prefab
+- Assets/01_GAME/Animations/opened.anim
+- Assets/01_GAME/Sprites/exclamanimation-sheet.png
+- Assets/01_GAME/Animations/open.anim
+- Assets/01_GAME/Resources/Events/CatchingPhaseEntered.asset
+- Assets/01_GAME/Prefabs/idle.anim
+- Assets/01_GAME/Sounds/door_close.wav
+- Assets/01_GAME/Animations/out.anim
+- Assets/01_GAME/Animations/standing.anim
+- Assets/01_GAME/3D Assets/bed.fbx
+- Assets/01_GAME/3D Assets/off.mat
+- Assets/01_GAME/Sprites/tweebs tutorial-sheet.png
+- Assets/01_GAME/Animations/mobile.controller
+Dependencies: []
