@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 411457715
+CRC: 3686639677
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 8b3c8a3ada10ccb09318c8469b743cd1
+    Hash: 96d67d3983930da725019cdb5faf1824
   TypeTreeHash:
     serializedVersion: 2
     Hash: c5ddfd77e96af2797e669b9d03067c92
@@ -25,6 +25,5 @@ Assets:
 - Assets/02_GAME/Sprites/wobbly_circle.png
 - Assets/01_GAME/Sounds/shitty noise.mp3
 - Assets/00_GAMEHUB/Sounds/tweeble_jingle.mp3
-- Assets/02_GAME/02_GAME.asset
 - Assets/02_GAME/Sprites/ONION.png
 Dependencies: []
