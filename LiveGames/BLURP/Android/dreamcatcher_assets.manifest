@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 1697586003
+CRC: 984563138
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: c1c2b83c56e2f8808e435abe2793ebd3
+    Hash: 9fd8f33f09b5ea7a2648a08bc1030611
   TypeTreeHash:
     serializedVersion: 2
-    Hash: ffdc013f45c6dbbaf14df2dc5827ea7d
+    Hash: 1c65a47e0724ab2bc829ffa373090d22
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -76,11 +76,15 @@ ClassTypes:
 - Class: 114
   Script: {fileID: 11500000, guid: 9385f22a835fd0746a965ef6f1dabf3f, type: 3}
 - Class: 114
+  Script: {fileID: 11500000, guid: 71c1514a6bd24e1e882cebbe1904ce04, type: 3}
+- Class: 114
   Script: {fileID: 11500000, guid: 987966fa65deb954e91a99f9403710d7, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 8b9a305e18de0c04dbd257a21cd47087, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: d65e486e4de6e5448a8fbb43dc8756a0, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9541d86e2fd84c1d9990edf0852d74ab, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 983e3b4f69af4d64bb54a05f4aae0c91, type: 3}
 - Class: 115
@@ -93,6 +97,10 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 213
   Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
 - Class: 241
   Script: {instanceID: 0}
 - Class: 243
@@ -100,15 +108,18 @@ ClassTypes:
 - Class: 245
   Script: {instanceID: 0}
 Assets:
+- Assets/01_GAME/Animations/GameOver.controller
 - Assets/01_GAME/Sprites/parent_walk.png
 - Assets/01_GAME/Animations/close.anim
 - Assets/01_GAME/Prefabs/SecondCamera.prefab
 - Assets/01_GAME/Sprites/introtext.png
 - Assets/01_GAME/3D Assets/walls 1.mat
 - Assets/01_GAME/Animations/closed.anim
+- Assets/01_GAME/Animations/gameover_lose.anim
 - Assets/01_GAME/Animations/lose.anim
 - Assets/01_GAME/Animations/walk out.anim
 - Assets/01_GAME/3D Assets/door.fbx
+- Assets/01_GAME/Sprites/player_spritesheet.png
 - Assets/01_GAME/Sprites/parent_lookaround1.png
 - Assets/01_GAME/3D Assets/nightlightOff.mat
 - Assets/01_GAME/Resources/Events/GameResumed.asset
@@ -121,10 +132,12 @@ Assets:
 - Assets/01_GAME/Sprites/placeholder1.png
 - Assets/01_GAME/Prefabs/regal_new.prefab
 - Assets/01_GAME/Resources/Events/MonsterSpawned.asset
+- Assets/01_GAME/Sprites/win screen-sheet.png
 - Assets/01_GAME/3D Assets/whimsical handpainted texture.mat
 - Assets/01_GAME/Sounds/switch01.wav
 - Assets/01_GAME/Sprites/failure screen-sheet.png
 - Assets/01_GAME/Animations/walk in 2.anim
+- Assets/01_GAME/Sounds/success.wav
 - Assets/01_GAME/3D Assets/eyelids.fbx
 - Assets/01_GAME/3D Assets/tweeble_mobile.fbx
 - Assets/01_GAME/3D Assets/nachttisch.fbx
@@ -135,9 +148,13 @@ Assets:
 - Assets/01_GAME/Scenes/GameScene_Profiles/Main Camera Profile 1.asset
 - Assets/01_GAME/3D Assets/Gameboi.mat
 - Assets/01_GAME/3D Assets/gameboiiii.fbx
+- Assets/01_GAME/Sprites/tweebs tutorial newnewnewt.png
 - Assets/01_GAME/3D Assets/nightlightOn.mat
 - Assets/01_GAME/Prefabs/GameBoi.prefab
+- Assets/01_GAME/Sounds/music_8-bit.wav
+- Assets/01_GAME/Animations/gameover_win.anim
 - Assets/01_GAME/3D Assets/door.prefab
+- Assets/01_GAME/Sounds/lost.wav
 - Assets/01_GAME/3D Assets/painting.fbx
 - Assets/01_GAME/Sounds/footsteps temp.wav
 - Assets/01_GAME/Resources/Events/Save.asset
@@ -147,6 +164,8 @@ Assets:
 - Assets/01_GAME/Resources/Events/Success.asset
 - Assets/01_GAME/Animations/lost.anim
 - Assets/01_GAME/Prefabs/gameboiiii Variant.prefab
+- Assets/01_GAME/Sounds/music_acoustic.wav
+- Assets/01_GAME/Sounds/catching.wav
 - Assets/01_GAME/Prefabs/walk.anim
 - Assets/01_GAME/3D Assets/room.fbx
 - Assets/01_GAME/Animations/door.controller
@@ -154,14 +173,20 @@ Assets:
 - Assets/01_GAME/Sprites/success screen-sheet.png
 - Assets/01_GAME/Prefabs/Parent Manager.prefab
 - Assets/01_GAME/Prefabs/parent.prefab
+- Assets/01_GAME/Sounds/empty.wav
+- Assets/01_GAME/Sprites/lose screen-sheet.png
+- Assets/01_GAME/Sprites/flower.png
 - Assets/01_GAME/3D Assets/walls.mat
 - Assets/01_GAME/Sprites/window_cookie.png
+- Assets/01_GAME/Sounds/button.wav
+- Assets/01_GAME/Font/Pixellari SDF.asset
 - Assets/01_GAME/3D Assets/walls 4.mat
 - Assets/01_GAME/3D Assets/walls2.mat
 - Assets/01_GAME/Resources/Events/BallWobble.asset
 - Assets/01_GAME/3D Assets/on.mat
 - Assets/01_GAME/Sounds/Master.mixer
 - Assets/01_GAME/Animations/walk in 1.anim
+- Assets/01_GAME/Sprites/monster5_spritesheet.png
 - Assets/01_GAME/Sprites/pressAtocontinue-sheet 1.png
 - Assets/01_GAME/Sounds/TempGameboiNoise.wav
 - Assets/01_GAME/Sprites/saving game-sheet.png
@@ -173,7 +198,9 @@ Assets:
 - Assets/01_GAME/3D Assets/room.prefab
 - Assets/01_GAME/Animations/opened.anim
 - Assets/01_GAME/Sprites/exclamanimation-sheet.png
+- Assets/TextMesh Pro/Resources/Shaders/TMP_SDF.shader
 - Assets/01_GAME/Animations/open.anim
+- Assets/TextMesh Pro/Resources/Shaders/TMP_SDF-Mobile.shader
 - Assets/01_GAME/Resources/Events/CatchingPhaseEntered.asset
 - Assets/01_GAME/Prefabs/idle.anim
 - Assets/01_GAME/Sounds/door_close.wav
@@ -181,6 +208,5 @@ Assets:
 - Assets/01_GAME/Animations/standing.anim
 - Assets/01_GAME/3D Assets/bed.fbx
 - Assets/01_GAME/3D Assets/off.mat
-- Assets/01_GAME/Sprites/tweebs tutorial-sheet.png
 - Assets/01_GAME/Animations/mobile.controller
 Dependencies: []
