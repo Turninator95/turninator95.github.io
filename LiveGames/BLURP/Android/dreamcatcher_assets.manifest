@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 1232584686
+CRC: 3056706409
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: bce7d7c7b4a7044345260c4b1d3c25f7
+    Hash: dec8ef81022ad5ac2b6ea4d25a15e0a6
   TypeTreeHash:
     serializedVersion: 2
     Hash: 1c65a47e0724ab2bc829ffa373090d22
@@ -177,6 +177,7 @@ Assets:
 - Assets/01_GAME/Sprites/lose screen-sheet.png
 - Assets/01_GAME/Sprites/flower.png
 - Assets/01_GAME/3D Assets/walls.mat
+- Assets/01_GAME/Prefabs/Gameboy+Cameras.prefab
 - Assets/01_GAME/Sprites/window_cookie.png
 - Assets/01_GAME/Sounds/button.wav
 - Assets/01_GAME/Font/Pixellari SDF.asset
