@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 2547035230
+CRC: 4226449222
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 3ff91f15fff88741bdaf292ea3314939
+    Hash: 638076fb0a639416f408c30f4e42b0f3
   TypeTreeHash:
     serializedVersion: 2
     Hash: 990a3723952a4bddeebc29ea0e82196f
@@ -134,6 +134,7 @@ Assets:
 - Assets/01_GAME/Sprites/placeholder1.png
 - Assets/01_GAME/Prefabs/regal_new.prefab
 - Assets/01_GAME/Resources/Events/MonsterSpawned.asset
+- Assets/01_GAME/Sprites/monster3_spritesheet.png
 - Assets/01_GAME/Sprites/win screen-sheet.png
 - Assets/01_GAME/3D Assets/whimsical handpainted texture.mat
 - Assets/01_GAME/Sounds/switch01.wav
@@ -148,6 +149,7 @@ Assets:
 - Assets/01_GAME/3D Assets/paintingbeautifultexture.png
 - Assets/01_GAME/3D Assets/walls 2.png
 - Assets/01_GAME/Scenes/GameScene_Profiles/Main Camera Profile 1.asset
+- Assets/01_GAME/Resources/Monsters/Monster_05.asset
 - Assets/01_GAME/3D Assets/Gameboi.mat
 - Assets/01_GAME/3D Assets/gameboiiii.fbx
 - Assets/01_GAME/Sprites/tweebs tutorial newnewnewt.png
@@ -159,10 +161,12 @@ Assets:
 - Assets/01_GAME/Sounds/lost.wav
 - Assets/01_GAME/3D Assets/painting.fbx
 - Assets/01_GAME/Sounds/footsteps temp.wav
+- Assets/01_GAME/Sprites/monster4_spritesheet.png
 - Assets/01_GAME/Resources/Events/Save.asset
 - Assets/01_GAME/3D Assets/walls 3.mat
 - Assets/01_GAME/3D Assets/regal_new.fbx
 - Assets/01_GAME/Resources/Events/MonsterDespawned.asset
+- Assets/01_GAME/Resources/Monsters/Monster_03.asset
 - Assets/01_GAME/Resources/Events/Success.asset
 - Assets/01_GAME/Animations/lost.anim
 - Assets/01_GAME/Prefabs/gameboiiii Variant.prefab
@@ -178,6 +182,7 @@ Assets:
 - Assets/01_GAME/Sounds/empty.wav
 - Assets/01_GAME/Sprites/lose screen-sheet.png
 - Assets/01_GAME/Sprites/flower.png
+- Assets/01_GAME/Sprites/monster2_spritesheet.png
 - Assets/01_GAME/3D Assets/walls.mat
 - Assets/01_GAME/Prefabs/Gameboy+Cameras.prefab
 - Assets/01_GAME/Sprites/window_cookie.png
@@ -187,6 +192,7 @@ Assets:
 - Assets/01_GAME/3D Assets/walls2.mat
 - Assets/01_GAME/Resources/Events/BallWobble.asset
 - Assets/01_GAME/3D Assets/on.mat
+- Assets/01_GAME/Resources/Monsters/Monster_04.asset
 - Assets/01_GAME/Sounds/Master.mixer
 - Assets/01_GAME/Animations/walk in 1.anim
 - Assets/01_GAME/Sprites/monster5_spritesheet.png
@@ -196,20 +202,22 @@ Assets:
 - Assets/01_GAME/Sounds/switch02.wav
 - Assets/01_GAME/Animations/walk in.anim
 - Assets/01_GAME/3D Assets/panel_seamless 1.png
+- Assets/01_GAME/Resources/Monsters/Monster_01.asset
 - Assets/01_GAME/3D Assets/bedspread.mat
 - Assets/01_GAME/Sounds/door open.wav
+- Assets/01_GAME/Resources/Monsters/Monster_02.asset
 - Assets/01_GAME/3D Assets/room.prefab
 - Assets/01_GAME/Animations/opened.anim
 - Assets/01_GAME/Sprites/exclamanimation-sheet.png
-- Assets/TextMesh Pro/Resources/Shaders/TMP_SDF.shader
 - Assets/01_GAME/Animations/open.anim
-- Assets/TextMesh Pro/Resources/Shaders/TMP_SDF-Mobile.shader
 - Assets/01_GAME/Resources/Events/CatchingPhaseEntered.asset
 - Assets/01_GAME/Prefabs/idle.anim
 - Assets/01_GAME/Sounds/door_close.wav
+- Assets/01_GAME/Sprites/monster1_spritesheet.png
 - Assets/01_GAME/Animations/out.anim
 - Assets/01_GAME/Animations/standing.anim
 - Assets/01_GAME/3D Assets/bed.fbx
 - Assets/01_GAME/3D Assets/off.mat
 - Assets/01_GAME/Animations/mobile.controller
-Dependencies: []
+Dependencies:
+- D:/CGL/Semester 4/Collaborative Project/BLURP/BLURP/AssetBundles/StandaloneWindows64/gameinfo

@@ -1,17 +1,26 @@
 ManifestFileVersion: 0
-CRC: 2842285033
+CRC: 971240226
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
-      Name: 01_game
-      Dependencies: {}
-    Info_1:
       Name: gameinfo
       Dependencies: {}
-    Info_2:
+    Info_1:
       Name: dreamcatcher_scenes
       Dependencies:
         Dependency_0: dreamcatcher_assets
-    Info_3:
+    Info_2:
       Name: dreamcatcher_assets
+      Dependencies:
+        Dependency_0: gameinfo
+    Info_3:
+      Name: 01_game
       Dependencies: {}
+    Info_4:
+      Name: vandesign_scenes
+      Dependencies:
+        Dependency_0: vandesign_assets
+    Info_5:
+      Name: vandesign_assets
+      Dependencies:
+        Dependency_0: gameinfo
