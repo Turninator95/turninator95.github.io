@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 1120833957
+CRC: 466889048
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: ba78da8164256ef67ce42f770349edfa
+    Hash: 9a87f2025b8d088f9db2807c1861f5d9
   TypeTreeHash:
     serializedVersion: 2
     Hash: f2731ac25f7ea1226250d26f58e7aa4d
@@ -31,5 +31,4 @@ Assets:
 - Assets/TextMesh Pro/Resources/Shaders/TMP_SDF.shader
 - Assets/02_GAME/02_GAME.asset
 - Assets/TextMesh Pro/Resources/Shaders/TMP_SDF-Mobile.shader
-- Assets/02_GAME/Sprites/ONION.png
 Dependencies: []

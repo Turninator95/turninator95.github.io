@@ -1,5 +1,5 @@
 ManifestFileVersion: 0
-CRC: 2887451569
+CRC: 608174228
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
@@ -14,13 +14,10 @@ AssetBundleManifest:
       Dependencies:
         Dependency_0: gameinfo
     Info_3:
-      Name: 01_game
-      Dependencies: {}
-    Info_4:
       Name: vandesign_scenes
       Dependencies:
         Dependency_0: vandesign_assets
-    Info_5:
+    Info_4:
       Name: vandesign_assets
       Dependencies:
         Dependency_0: gameinfo
