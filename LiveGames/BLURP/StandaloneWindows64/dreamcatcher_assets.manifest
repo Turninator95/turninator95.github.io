@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 274412881
+CRC: 560536281
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 638076fb0a639416f408c30f4e42b0f3
+    Hash: 06c8a5eb53e499f82d1198909094a208
   TypeTreeHash:
     serializedVersion: 2
     Hash: 990a3723952a4bddeebc29ea0e82196f
@@ -220,4 +220,4 @@ Assets:
 - Assets/01_GAME/3D Assets/off.mat
 - Assets/01_GAME/Animations/mobile.controller
 Dependencies:
-- D:/CGL/Semester 4/Collaborative Project/BLURP/BLURP/AssetBundles/StandaloneWindows64/gameinfo
+- C:/Users/dturner/Documents/GitHub/BLURP/BLURP/AssetBundles/StandaloneWindows64/gameinfo

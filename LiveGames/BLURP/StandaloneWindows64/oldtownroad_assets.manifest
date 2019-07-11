@@ -1,0 +1,197 @@
+ManifestFileVersion: 0
+CRC: 4190074045
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a8842ea238d7a787d5d628ef1d63eb5f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 810fc2db130b75e1a91dbb1fc0bae34d
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 20
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 72
+  Script: {instanceID: 0}
+- Class: 81
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 84
+  Script: {instanceID: 0}
+- Class: 108
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 1392445389, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 1980459831, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -619905303, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 1301386320, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -405508275, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 1679637790, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -1200242548, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -98529514, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 1077351063, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 948f4100a11a5c24981795d21301da5c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: adb84e30e02715445aeb9959894e3b4d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: cd1dcce078f10a8459d8d0bc89c2fc1c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 48a79b01ea5641d4aa6daa2e23605641, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8e6292b2c06870d4495f009f912b9600, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 40b924e2dad56384a8df2a1e111bb675, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 058cba836c1846c3aa1c5fd2e28aea77, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 18b6fb833c37f9c418dc3c7787464509, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e3bad70431d15bd49b8d196b97e45f02, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e1362ca4c3f3bc247a20636a6eaae8db, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: acfe59669508d55489dd9d7c41eaedf6, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 27231f579e76acd4c9d28d7180a1a63f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 30f4b897495c7ad40b2d47143e02aaba, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 978947a7b7dc4fb41871a1cff8a7d237, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2dc6bf181cdb14aab9c6f511c928132c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 78b66e69db28fcf43912114b43fe896f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: cb196979a210edc48a70789cec14c0da, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f50e188956a270c44971d7949e682da1, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 71c1514a6bd24e1e882cebbe1904ce04, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f4688fdb7df04437aeb418b961361dc5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d506793ee07e645d28f8aea464882c05, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8b9a305e18de0c04dbd257a21cd47087, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9541d86e2fd84c1d9990edf0852d74ab, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 91b7313f19d4448c194f6d6daebf9a5a, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 223
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+Assets:
+- Assets/03_GAME/Models/saloon/planks.mat
+- Assets/03_GAME/Prefabs/House.prefab
+- Assets/03_GAME/BuildingEffects/Sheriff_Shop.asset
+- Assets/03_GAME/Models/sheriff.prefab
+- Assets/03_GAME/Models/sheriff/darken.mat
+- Assets/03_GAME/Models/sheriff.fbx
+- Assets/03_GAME/Models/saloon/darken.mat
+- Assets/03_GAME/Prefabs/TextDisplay.prefab
+- Assets/03_GAME/Models/Store/wall.mat
+- Assets/03_GAME/Models/general_cabin_merged.fbx
+- Assets/03_GAME/Sprites/Store Texture.renderTexture
+- Assets/03_GAME/Models/Store/wood.mat
+- Assets/03_GAME/Fonts/Rye-Regular SDF.asset
+- Assets/03_GAME/Sprites/House Texture.renderTexture
+- Assets/03_GAME/Prefabs/Store.prefab
+- Assets/03_GAME/Models/saloon/glass.mat
+- Assets/03_GAME/Fonts/Rye-Regular.asset
+- Assets/03_GAME/Prefabs/Saloon.prefab
+- Assets/03_GAME/BuildingEffects/Sheriff_Saloon.asset
+- Assets/03_GAME/Materials/Window.mat
+- Assets/03_GAME/Models/sheriff/bars.mat
+- Assets/03_GAME/Models/saloon.fbx
+- Assets/03_GAME/Models/Materials/Material.003.mat
+- Assets/03_GAME/BuildingEffects/Saloon_Shop.asset
+- Assets/03_GAME/Sounds/Old Town Road.mp3
+- Assets/03_GAME/Models/Materials/Material.001.mat
+- Assets/03_GAME/Materials/Selected.mat
+- Assets/03_GAME/Models/saloon/wall.mat
+- Assets/03_GAME/Sprites/Street TExture.renderTexture
+- Assets/03_GAME/Models/saloon/floor.mat
+- Assets/03_GAME/BuildingEffects/House_Shop.asset
+- Assets/03_GAME/Models/Materials/Material.002.mat
+- Assets/03_GAME/Models/saloon/font.mat
+- Assets/03_GAME/BuildingEffects/Shop_Sheriff.asset
+- Assets/03_GAME/Scenes/Old_Town_Road_Profiles/Rendertexture.asset
+- Assets/03_GAME/BuildingEffects/Shop_House.asset
+- Assets/03_GAME/Sprites/ArtsyRipOff.png
+- Assets/03_GAME/Models/sheriff/Water.mat
+- Assets/03_GAME/Sprites/Saloon Render Texture.renderTexture
+- Assets/03_GAME/BuildingEffects/Saloon_House.asset
+- Assets/TextMesh Pro/Resources/Shaders/TMP_SDF Overlay.shader
+- Assets/03_GAME/Prefabs/Grid.prefab
+- Assets/03_GAME/Models/sheriff/star.mat
+- Assets/03_GAME/Models/Materials/Material.mat
+- Assets/03_GAME/Models/ground.fbx
+- Assets/03_GAME/BuildingEffects/Saloon_Sheriff.asset
+- Assets/03_GAME/Prefabs/RoadSegment.prefab
+- Assets/03_GAME/Scenes/Old_Town_Road_Profiles/Old Town Road.asset
+- Assets/03_GAME/Fonts/Rye-Regular.ttf
+- Assets/03_GAME/Models/saloon/planks.001.mat
+- Assets/03_GAME/Models/Store.fbx
+- Assets/03_GAME/Models/sheriff/glass.mat
+- Assets/03_GAME/Prefabs/Lights.prefab
+- Assets/03_GAME/Models/sheriff/planks.mat
+- Assets/03_GAME/Sprites/Sheriffr Texture 1.renderTexture
+- Assets/03_GAME/Models/Store/glass.mat
+- Assets/03_GAME/Models/saloon/wood.mat
+- Assets/03_GAME/Models/Store/planks.mat
+- Assets/03_GAME/Models/sheriff/wall.mat
+- Assets/03_GAME/Models/Store/font.mat
+- Assets/03_GAME/Models/sheriff/font.mat
+- Assets/03_GAME/Prefabs/Sheriff.prefab
+- Assets/03_GAME/Sprites/Gradient.png
+- Assets/03_GAME/Prefabs/CameraCenter.prefab
+- Assets/03_GAME/Models/Store/darken.mat
+- Assets/03_GAME/Prefabs/Ground.prefab
+- Assets/03_GAME/BuildingEffects/Shop_Saloon.asset
+- Assets/03_GAME/BuildingEffects/House_Saloon.asset
+Dependencies:
+- C:/Users/dturner/Documents/GitHub/BLURP/BLURP/AssetBundles/StandaloneWindows64/gameinfo
+- C:/Users/dturner/Documents/GitHub/BLURP/BLURP/AssetBundles/StandaloneWindows64/vandesigner_assets

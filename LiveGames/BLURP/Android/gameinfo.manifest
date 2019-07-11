@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 2530211165
+CRC: 2738022850
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 30e2c132928a1cc5d13490e0ef192c08
+    Hash: 1b813425cc7b4c0d11628df53c72b933
   TypeTreeHash:
     serializedVersion: 2
     Hash: f2731ac25f7ea1226250d26f58e7aa4d
@@ -25,8 +25,9 @@ Assets:
 - Assets/01_GAME/01_DreamCatcher.asset
 - Assets/00_GAMEHUB/00_TeamInfo.asset
 - Assets/02_GAME/Sprites/wobbly_circle.png
-- Assets/02_GAME/Sprites/gamelogo.png
+- Assets/02_GAME/Sprites/Logos/gamelogo.png
 - Assets/01_GAME/Sounds/shitty noise.mp3
+- Assets/03_GAME/03_GAME.asset
 - Assets/00_GAMEHUB/Sounds/tweeble_jingle.mp3
 - Assets/TextMesh Pro/Resources/Shaders/TMP_SDF.shader
 - Assets/02_GAME/02_GAME.asset

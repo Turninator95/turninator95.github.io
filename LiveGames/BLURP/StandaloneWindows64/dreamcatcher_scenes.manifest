@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 775309968
+CRC: 3762894083
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: ca6ee0adcb8476c0ef1608e7231acddf
+    Hash: 26235d7445131f811ebc06bf1b6f16c5
   TypeTreeHash:
     serializedVersion: 2
     Hash: 5464ed7ca2c915cf2819b294863509b9
@@ -116,4 +116,4 @@ ClassTypes:
 Assets:
 - Assets/01_GAME/Scenes/GameScene.unity
 Dependencies:
-- D:/CGL/Semester 4/Collaborative Project/BLURP/BLURP/AssetBundles/StandaloneWindows64/dreamcatcher_assets
+- C:/Users/dturner/Documents/GitHub/BLURP/BLURP/AssetBundles/StandaloneWindows64/dreamcatcher_assets
