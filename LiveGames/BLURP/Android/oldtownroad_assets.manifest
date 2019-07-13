@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 2026214038
+CRC: 1491027639
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 532a13a18ae4be9d2fb1218c3abafefd
+    Hash: 0e94650db17285a6af3abf4fd9c07303
   TypeTreeHash:
     serializedVersion: 2
     Hash: d7eb2b5482a5a5c36beed1e921a49e51
@@ -135,6 +135,7 @@ Assets:
 - Assets/03_GAME/Prefabs/TextDisplay.prefab
 - Assets/03_GAME/Models/Store/wall.mat
 - Assets/03_GAME/Models/general_cabin_merged.fbx
+- Assets/03_GAME/Sprites/intersections_deco.png
 - Assets/03_GAME/Sprites/Store Texture.renderTexture
 - Assets/03_GAME/Models/Store/wood.mat
 - Assets/03_GAME/Fonts/Rye-Regular SDF.asset
@@ -170,6 +171,7 @@ Assets:
 - Assets/03_GAME/BuildingEffects/Saloon_House.asset
 - Assets/03_GAME/Materials/road.mat
 - Assets/TextMesh Pro/Resources/Shaders/TMP_SDF Overlay.shader
+- Assets/03_GAME/Sprites/infromation_button.png
 - Assets/03_GAME/Prefabs/Grid.prefab
 - Assets/03_GAME/Models/sheriff/star.mat
 - Assets/03_GAME/Models/Materials/Material.mat
@@ -194,6 +196,7 @@ Assets:
 - Assets/03_GAME/Prefabs/Sheriff.prefab
 - Assets/03_GAME/Sprites/Gradient.png
 - Assets/03_GAME/Prefabs/CameraCenter.prefab
+- Assets/03_GAME/Sprites/upper border_decor.png
 - Assets/03_GAME/Models/Store/darken.mat
 - Assets/03_GAME/Prefabs/Ground.prefab
 - Assets/03_GAME/BuildingEffects/Shop_Saloon.asset
