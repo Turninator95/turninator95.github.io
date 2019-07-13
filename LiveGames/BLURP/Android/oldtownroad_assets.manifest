@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 2659082385
+CRC: 2026214038
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 758722ea2a597cd2d563c8eecdbcb0dd
+    Hash: 532a13a18ae4be9d2fb1218c3abafefd
   TypeTreeHash:
     serializedVersion: 2
-    Hash: a44842bcb265b26eda1a5fbbf4b60c9a
+    Hash: d7eb2b5482a5a5c36beed1e921a49e51
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -98,8 +98,6 @@ ClassTypes:
 - Class: 114
   Script: {fileID: 11500000, guid: 78b66e69db28fcf43912114b43fe896f, type: 3}
 - Class: 114
-  Script: {fileID: 11500000, guid: cb196979a210edc48a70789cec14c0da, type: 3}
-- Class: 114
   Script: {fileID: 11500000, guid: f50e188956a270c44971d7949e682da1, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 71c1514a6bd24e1e882cebbe1904ce04, type: 3}
@@ -168,7 +166,9 @@ Assets:
 - Assets/03_GAME/Sprites/LowPolyTexture_normal.png
 - Assets/03_GAME/Models/sheriff/Water.mat
 - Assets/03_GAME/Sprites/Saloon Render Texture.renderTexture
+- Assets/03_GAME/Events/HideSnapPoints.asset
 - Assets/03_GAME/BuildingEffects/Saloon_House.asset
+- Assets/03_GAME/Materials/road.mat
 - Assets/TextMesh Pro/Resources/Shaders/TMP_SDF Overlay.shader
 - Assets/03_GAME/Prefabs/Grid.prefab
 - Assets/03_GAME/Models/sheriff/star.mat
@@ -197,7 +197,7 @@ Assets:
 - Assets/03_GAME/Models/Store/darken.mat
 - Assets/03_GAME/Prefabs/Ground.prefab
 - Assets/03_GAME/BuildingEffects/Shop_Saloon.asset
+- Assets/03_GAME/Events/ShowSnapPoints.asset
 - Assets/03_GAME/BuildingEffects/House_Saloon.asset
 Dependencies:
-- D:/CGL/Semester 4/Collaborative Project/BLURP/BLURP/AssetBundles/Android/vandesigner_assets
 - D:/CGL/Semester 4/Collaborative Project/BLURP/BLURP/AssetBundles/Android/gameinfo

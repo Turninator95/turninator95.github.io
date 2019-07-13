@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 2997085483
+CRC: 1226107401
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: c46a5181fe2d5ebda18596476832fb8e
+    Hash: 46d791a74e8ab4f4060ec429b70785a8
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 9c0c4caee3f3ee553f4e8e79de2ee079
+    Hash: 87ce60694972423e6fbd108e5bc6db91
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -123,8 +123,6 @@ ClassTypes:
   Script: {fileID: 11500000, guid: c1cb7e9e120078f43bce4f0b1be547a7, type: 3}
 - Class: 115
   Script: {instanceID: 0}
-- Class: 128
-  Script: {instanceID: 0}
 - Class: 213
   Script: {instanceID: 0}
 - Class: 215
@@ -176,7 +174,6 @@ Assets:
 - Assets/02_GAME/Sprites/Logos/ps.png
 - Assets/02_GAME/3D objects/diele_corner.fbx
 - Assets/02_GAME/Prefabs/pot_plant_01.prefab
-- Assets/TextMesh Pro/Fonts/LiberationSans.ttf
 - Assets/02_GAME/Scriptable Objects/Furniture/Classic_Rug.asset
 - Assets/02_GAME/Scriptable Objects/Vendor/Gideons Galerie.asset
 - Assets/02_GAME/Sprites/Logos/GGG.png
@@ -206,7 +203,6 @@ Assets:
 - Assets/02_GAME/Sounds/yes please classic.mp3
 - Assets/02_GAME/Prefabs/classic_rug.prefab
 - Assets/02_GAME/3D objects/smol_plent.fbx
-- Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF.asset
 - Assets/02_GAME/Fonts/MODERN TYPEWRITER.asset
 - Assets/02_GAME/Prefabs/Lights.prefab
 - Assets/02_GAME/Materials/fuge.mat
@@ -239,7 +235,6 @@ Assets:
 - Assets/02_GAME/Prefabs/classic_chandelier.prefab
 - Assets/02_GAME/Models/chair_neo_01.fbx
 - Assets/02_GAME/Sprites/customer2_sad.png
-- Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Fallback.asset
 - Assets/02_GAME/Materials/metal 1.mat
 - Assets/02_GAME/Prefabs/room01.prefab
 - Assets/02_GAME/Materials/walls.mat
