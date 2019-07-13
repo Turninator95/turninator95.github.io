@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 2461633933
+CRC: 2319242076
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 132c9f6aef76e9feba1eb24ebb36cd30
+    Hash: 9b7a9bddf69c459460173d08fde8f015
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 44e9a9e822e0fbbb2ac44a7e5caf2834
+    Hash: 5cdeca23a3f6e0a5398f9c0b6f06b638
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -44,6 +44,14 @@ ClassTypes:
 - Class: 108
   Script: {instanceID: 0}
 - Class: 114
+  Script: {fileID: 11500000, guid: 948f4100a11a5c24981795d21301da5c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: adb84e30e02715445aeb9959894e3b4d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e1654250bd43d394c8371e5df4372ed3, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 48a79b01ea5641d4aa6daa2e23605641, type: 3}
+- Class: 114
   Script: {fileID: 1392445389, guid: f70555f144d8491a825f0804e09c671c, type: 3}
 - Class: 114
   Script: {fileID: 1980459831, guid: f70555f144d8491a825f0804e09c671c, type: 3}
@@ -57,14 +65,6 @@ ClassTypes:
   Script: {fileID: -1200242548, guid: f70555f144d8491a825f0804e09c671c, type: 3}
 - Class: 114
   Script: {fileID: 1077351063, guid: f70555f144d8491a825f0804e09c671c, type: 3}
-- Class: 114
-  Script: {fileID: 11500000, guid: 948f4100a11a5c24981795d21301da5c, type: 3}
-- Class: 114
-  Script: {fileID: 11500000, guid: adb84e30e02715445aeb9959894e3b4d, type: 3}
-- Class: 114
-  Script: {fileID: 11500000, guid: e1654250bd43d394c8371e5df4372ed3, type: 3}
-- Class: 114
-  Script: {fileID: 11500000, guid: 48a79b01ea5641d4aa6daa2e23605641, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 27ffa352c981dc34f9e788c7af480d6c, type: 3}
 - Class: 114
@@ -146,6 +146,6 @@ Assets:
 - Assets/02_GAME/Scenes/Study.unity
 - Assets/02_GAME/Scenes/Entree.unity
 Dependencies:
-- C:/Users/dturner/Documents/GitHub/BLURP/BLURP/AssetBundles/Android/dreamcatcher_assets
-- C:/Users/dturner/Documents/GitHub/BLURP/BLURP/AssetBundles/Android/gameinfo
-- C:/Users/dturner/Documents/GitHub/BLURP/BLURP/AssetBundles/Android/vandesigner_assets
+- D:/CGL/Semester 4/Collaborative Project/BLURP/BLURP/AssetBundles/Android/dreamcatcher_assets
+- D:/CGL/Semester 4/Collaborative Project/BLURP/BLURP/AssetBundles/Android/vandesigner_assets
+- D:/CGL/Semester 4/Collaborative Project/BLURP/BLURP/AssetBundles/Android/gameinfo

@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 3163289498
+CRC: 3624150119
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: c4fd6263837530ac720411890a3dfa9e
+    Hash: deee669bf4ed40f10b291b1c39f5819d
   TypeTreeHash:
     serializedVersion: 2
-    Hash: fc6e9e7072f5e5f4422989742ce19d2f
+    Hash: 9c0c4caee3f3ee553f4e8e79de2ee079
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -42,6 +42,14 @@ ClassTypes:
 - Class: 108
   Script: {instanceID: 0}
 - Class: 114
+  Script: {fileID: 11500000, guid: 948f4100a11a5c24981795d21301da5c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: adb84e30e02715445aeb9959894e3b4d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e1654250bd43d394c8371e5df4372ed3, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 48a79b01ea5641d4aa6daa2e23605641, type: 3}
+- Class: 114
   Script: {fileID: 1392445389, guid: f70555f144d8491a825f0804e09c671c, type: 3}
 - Class: 114
   Script: {fileID: 1980459831, guid: f70555f144d8491a825f0804e09c671c, type: 3}
@@ -55,14 +63,6 @@ ClassTypes:
   Script: {fileID: -1200242548, guid: f70555f144d8491a825f0804e09c671c, type: 3}
 - Class: 114
   Script: {fileID: 1077351063, guid: f70555f144d8491a825f0804e09c671c, type: 3}
-- Class: 114
-  Script: {fileID: 11500000, guid: 948f4100a11a5c24981795d21301da5c, type: 3}
-- Class: 114
-  Script: {fileID: 11500000, guid: adb84e30e02715445aeb9959894e3b4d, type: 3}
-- Class: 114
-  Script: {fileID: 11500000, guid: e1654250bd43d394c8371e5df4372ed3, type: 3}
-- Class: 114
-  Script: {fileID: 11500000, guid: 48a79b01ea5641d4aa6daa2e23605641, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 27ffa352c981dc34f9e788c7af480d6c, type: 3}
 - Class: 114
@@ -279,4 +279,4 @@ Assets:
 - Assets/02_GAME/3D objects/diele.fbx
 - Assets/02_GAME/Sprites/old customer sprites/customer_neutral.png
 Dependencies:
-- C:/Users/dturner/Documents/GitHub/BLURP/BLURP/AssetBundles/Android/gameinfo
+- D:/CGL/Semester 4/Collaborative Project/BLURP/BLURP/AssetBundles/Android/gameinfo

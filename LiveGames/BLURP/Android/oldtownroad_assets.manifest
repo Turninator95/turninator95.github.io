@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 366832791
+CRC: 2659082385
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 4f0d098841e612d390df278c4162048a
+    Hash: 758722ea2a597cd2d563c8eecdbcb0dd
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 810fc2db130b75e1a91dbb1fc0bae34d
+    Hash: a44842bcb265b26eda1a5fbbf4b60c9a
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -44,6 +44,16 @@ ClassTypes:
 - Class: 108
   Script: {instanceID: 0}
 - Class: 114
+  Script: {fileID: 11500000, guid: 948f4100a11a5c24981795d21301da5c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: adb84e30e02715445aeb9959894e3b4d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: cd1dcce078f10a8459d8d0bc89c2fc1c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 48a79b01ea5641d4aa6daa2e23605641, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ab7d5eb19807b9749beaab7ccf4e17bf, type: 3}
+- Class: 114
   Script: {fileID: 1392445389, guid: f70555f144d8491a825f0804e09c671c, type: 3}
 - Class: 114
   Script: {fileID: 1980459831, guid: f70555f144d8491a825f0804e09c671c, type: 3}
@@ -63,14 +73,6 @@ ClassTypes:
   Script: {fileID: -98529514, guid: f70555f144d8491a825f0804e09c671c, type: 3}
 - Class: 114
   Script: {fileID: 1077351063, guid: f70555f144d8491a825f0804e09c671c, type: 3}
-- Class: 114
-  Script: {fileID: 11500000, guid: 948f4100a11a5c24981795d21301da5c, type: 3}
-- Class: 114
-  Script: {fileID: 11500000, guid: adb84e30e02715445aeb9959894e3b4d, type: 3}
-- Class: 114
-  Script: {fileID: 11500000, guid: cd1dcce078f10a8459d8d0bc89c2fc1c, type: 3}
-- Class: 114
-  Script: {fileID: 11500000, guid: 48a79b01ea5641d4aa6daa2e23605641, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 8e6292b2c06870d4495f009f912b9600, type: 3}
 - Class: 114
@@ -129,6 +131,7 @@ Assets:
 - Assets/03_GAME/BuildingEffects/Sheriff_Shop.asset
 - Assets/03_GAME/Models/sheriff.prefab
 - Assets/03_GAME/Models/sheriff/darken.mat
+- Assets/03_GAME/Sprites/Gradient_Semi_Filled.png
 - Assets/03_GAME/Models/sheriff.fbx
 - Assets/03_GAME/Models/saloon/darken.mat
 - Assets/03_GAME/Prefabs/TextDisplay.prefab
@@ -152,6 +155,7 @@ Assets:
 - Assets/03_GAME/Models/Materials/Material.001.mat
 - Assets/03_GAME/Materials/Selected.mat
 - Assets/03_GAME/Models/saloon/wall.mat
+- Assets/03_GAME/Sprites/ao_low poly.png
 - Assets/03_GAME/Sprites/Street TExture.renderTexture
 - Assets/03_GAME/Models/saloon/floor.mat
 - Assets/03_GAME/BuildingEffects/House_Shop.asset
@@ -161,6 +165,7 @@ Assets:
 - Assets/03_GAME/Scenes/Old_Town_Road_Profiles/Rendertexture.asset
 - Assets/03_GAME/BuildingEffects/Shop_House.asset
 - Assets/03_GAME/Sprites/ArtsyRipOff.png
+- Assets/03_GAME/Sprites/LowPolyTexture_normal.png
 - Assets/03_GAME/Models/sheriff/Water.mat
 - Assets/03_GAME/Sprites/Saloon Render Texture.renderTexture
 - Assets/03_GAME/BuildingEffects/Saloon_House.asset
@@ -178,6 +183,7 @@ Assets:
 - Assets/03_GAME/Models/sheriff/glass.mat
 - Assets/03_GAME/Prefabs/Lights.prefab
 - Assets/03_GAME/Models/sheriff/planks.mat
+- Assets/03_GAME/Materials/floor.mat
 - Assets/03_GAME/Sprites/Sheriffr Texture 1.renderTexture
 - Assets/03_GAME/Models/Store/glass.mat
 - Assets/03_GAME/Models/saloon/wood.mat
@@ -193,5 +199,5 @@ Assets:
 - Assets/03_GAME/BuildingEffects/Shop_Saloon.asset
 - Assets/03_GAME/BuildingEffects/House_Saloon.asset
 Dependencies:
-- C:/Users/dturner/Documents/GitHub/BLURP/BLURP/AssetBundles/Android/gameinfo
-- C:/Users/dturner/Documents/GitHub/BLURP/BLURP/AssetBundles/Android/vandesigner_assets
+- D:/CGL/Semester 4/Collaborative Project/BLURP/BLURP/AssetBundles/Android/vandesigner_assets
+- D:/CGL/Semester 4/Collaborative Project/BLURP/BLURP/AssetBundles/Android/gameinfo
