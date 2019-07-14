@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 2487874961
+CRC: 1804422316
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 606ad283607352a448bed33814de2487
+    Hash: bc4004bc363338d946b8ce11c853b07b
   TypeTreeHash:
     serializedVersion: 2
-    Hash: d7eb2b5482a5a5c36beed1e921a49e51
+    Hash: 0ee1a3d88d488acc84e9865662434318
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -33,6 +33,8 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 72
   Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
 - Class: 81
   Script: {instanceID: 0}
 - Class: 82
@@ -40,6 +42,10 @@ ClassTypes:
 - Class: 83
   Script: {instanceID: 0}
 - Class: 84
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
   Script: {instanceID: 0}
 - Class: 108
   Script: {instanceID: 0}
@@ -124,47 +130,66 @@ ClassTypes:
 - Class: 224
   Script: {instanceID: 0}
 Assets:
+- Assets/03_GAME/Prefabs/House_Roof.prefab
+- Assets/03_GAME/Models/Materials/detail.mat
 - Assets/03_GAME/Models/saloon/planks.mat
 - Assets/03_GAME/Prefabs/House.prefab
 - Assets/03_GAME/BuildingEffects/Sheriff_Shop.asset
 - Assets/03_GAME/Models/sheriff.prefab
+- Assets/03_GAME/Models/Holzmast.fbx
+- Assets/03_GAME/Sprites/information screen_upper_border.png
 - Assets/03_GAME/Models/sheriff/darken.mat
 - Assets/03_GAME/Sprites/Gradient_Semi_Filled.png
 - Assets/03_GAME/Models/sheriff.fbx
+- Assets/03_GAME/Models/cactus2.fbx
 - Assets/03_GAME/Models/saloon/darken.mat
 - Assets/03_GAME/Prefabs/TextDisplay.prefab
 - Assets/03_GAME/Models/Store/wall.mat
+- Assets/03_GAME/Models/roof.fbx
 - Assets/03_GAME/Models/general_cabin_merged.fbx
 - Assets/03_GAME/Sprites/intersections_deco.png
 - Assets/03_GAME/Sprites/Store Texture.renderTexture
 - Assets/03_GAME/Models/Store/wood.mat
 - Assets/03_GAME/Fonts/Rye-Regular SDF.asset
+- Assets/03_GAME/Prefabs/Holzmast.prefab
 - Assets/03_GAME/Sprites/House Texture.renderTexture
 - Assets/03_GAME/Prefabs/Store.prefab
 - Assets/03_GAME/Models/saloon/glass.mat
+- Assets/03_GAME/Models/house.fbx
 - Assets/03_GAME/Fonts/Rye-Regular.asset
+- Assets/03_GAME/Prefabs/Saloon_lv_02.prefab
+- Assets/03_GAME/Prefabs/cactus1.prefab
+- Assets/03_GAME/Sprites/information screen_lower_border.png
+- Assets/03_GAME/Prefabs/cactus2.prefab
 - Assets/03_GAME/Prefabs/Saloon.prefab
 - Assets/03_GAME/BuildingEffects/Sheriff_Saloon.asset
 - Assets/03_GAME/Materials/Window.mat
 - Assets/03_GAME/Models/sheriff/bars.mat
 - Assets/03_GAME/Models/saloon.fbx
 - Assets/03_GAME/Models/Materials/Material.003.mat
+- Assets/03_GAME/Models/Rock2.fbx
 - Assets/03_GAME/BuildingEffects/Saloon_Shop.asset
 - Assets/03_GAME/Sounds/Old Town Road.mp3
 - Assets/03_GAME/Models/Materials/Material.001.mat
 - Assets/03_GAME/Materials/Selected.mat
 - Assets/03_GAME/Models/saloon/wall.mat
 - Assets/03_GAME/Sprites/ao_low poly.png
+- Assets/03_GAME/Models/house/planks.mat
+- Assets/03_GAME/Models/Materials/wood.mat
 - Assets/03_GAME/Sprites/Street TExture.renderTexture
+- Assets/PriceBeautification.controller
 - Assets/03_GAME/Models/saloon/floor.mat
 - Assets/03_GAME/BuildingEffects/House_Shop.asset
 - Assets/03_GAME/Models/Materials/Material.002.mat
+- Assets/03_GAME/Models/house/wall.mat
 - Assets/03_GAME/Models/saloon/font.mat
 - Assets/03_GAME/BuildingEffects/Shop_Sheriff.asset
 - Assets/03_GAME/Scenes/Old_Town_Road_Profiles/Rendertexture.asset
 - Assets/03_GAME/BuildingEffects/Shop_House.asset
-- Assets/03_GAME/Sprites/ArtsyRipOff.png
+- Assets/03_GAME/Models/cactus1.fbx
 - Assets/03_GAME/Sprites/LowPolyTexture_normal.png
+- Assets/03_GAME/Prefabs/House_lv_02.prefab
+- Assets/03_GAME/Models/Rock1.fbx
 - Assets/03_GAME/Models/sheriff/Water.mat
 - Assets/03_GAME/Sprites/Saloon Render Texture.renderTexture
 - Assets/03_GAME/Events/HideSnapPoints.asset
@@ -172,14 +197,18 @@ Assets:
 - Assets/03_GAME/Materials/road.mat
 - Assets/TextMesh Pro/Resources/Shaders/TMP_SDF Overlay.shader
 - Assets/03_GAME/Sprites/infromation_button.png
+- Assets/SongAnimation.anim
 - Assets/03_GAME/Prefabs/Grid.prefab
+- Assets/03_GAME/Prefabs/roof.prefab
 - Assets/03_GAME/Models/sheriff/star.mat
 - Assets/03_GAME/Models/Materials/Material.mat
 - Assets/03_GAME/Models/ground.fbx
 - Assets/03_GAME/BuildingEffects/Saloon_Sheriff.asset
+- Assets/03_GAME/Models/Materials/Rock.mat
 - Assets/03_GAME/Prefabs/RoadSegment.prefab
 - Assets/03_GAME/Scenes/Old_Town_Road_Profiles/Old Town Road.asset
 - Assets/03_GAME/Fonts/Rye-Regular.ttf
+- Assets/03_GAME/Prefabs/Rock1.prefab
 - Assets/03_GAME/Models/saloon/planks.001.mat
 - Assets/03_GAME/Models/Store.fbx
 - Assets/03_GAME/Models/sheriff/glass.mat
@@ -190,14 +219,17 @@ Assets:
 - Assets/03_GAME/Models/Store/glass.mat
 - Assets/03_GAME/Models/saloon/wood.mat
 - Assets/03_GAME/Models/Store/planks.mat
+- Assets/03_GAME/Prefabs/Sheriff_lv_02.prefab
 - Assets/03_GAME/Models/sheriff/wall.mat
 - Assets/03_GAME/Models/Store/font.mat
 - Assets/03_GAME/Models/sheriff/font.mat
 - Assets/03_GAME/Prefabs/Sheriff.prefab
 - Assets/03_GAME/Sprites/Gradient.png
 - Assets/03_GAME/Prefabs/CameraCenter.prefab
+- Assets/03_GAME/Prefabs/Rock2.prefab
 - Assets/03_GAME/Sprites/upper border_decor.png
 - Assets/03_GAME/Models/Store/darken.mat
+- Assets/03_GAME/Prefabs/Store_lv_02.prefab
 - Assets/03_GAME/Prefabs/Ground.prefab
 - Assets/03_GAME/BuildingEffects/Shop_Saloon.asset
 - Assets/03_GAME/Events/ShowSnapPoints.asset

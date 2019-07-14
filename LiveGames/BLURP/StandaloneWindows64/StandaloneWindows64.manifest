@@ -1,5 +1,5 @@
 ManifestFileVersion: 0
-CRC: 3977366794
+CRC: 2215308138
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
@@ -19,7 +19,8 @@ AssetBundleManifest:
     Info_3:
       Name: oldtownroad_scenes
       Dependencies:
-        Dependency_0: oldtownroad_assets
+        Dependency_0: vandesigner_assets
+        Dependency_1: oldtownroad_assets
     Info_4:
       Name: vandesigner_assets
       Dependencies:
