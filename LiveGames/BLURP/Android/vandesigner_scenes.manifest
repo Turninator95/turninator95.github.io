@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 750033591
+CRC: 2012617608
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 0ce72e9d29f377d67244ab8be63e864b
+    Hash: d8ea2169dbc51b8d14aa2c164717eee3
   TypeTreeHash:
     serializedVersion: 2
     Hash: 5cdeca23a3f6e0a5398f9c0b6f06b638
@@ -146,6 +146,5 @@ Assets:
 - Assets/02_GAME/Scenes/Study.unity
 - Assets/02_GAME/Scenes/Entree.unity
 Dependencies:
-- D:/CGL/Semester 4/Collaborative Project/BLURP/BLURP/AssetBundles/Android/dreamcatcher_assets
 - D:/CGL/Semester 4/Collaborative Project/BLURP/BLURP/AssetBundles/Android/vandesigner_assets
 - D:/CGL/Semester 4/Collaborative Project/BLURP/BLURP/AssetBundles/Android/gameinfo

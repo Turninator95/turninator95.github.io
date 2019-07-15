@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 3037446055
+CRC: 2155764142
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: aa6e4a093dda4acd38a1a43e10998bad
+    Hash: c1ffa36f20e3968a8ef87b565a0fb995
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 0ee1a3d88d488acc84e9865662434318
+    Hash: 8c0433048f3615e4138dcc5039a276e0
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -142,17 +142,21 @@ Assets:
 - Assets/03_GAME/Sprites/Gradient_Semi_Filled.png
 - Assets/03_GAME/Models/sheriff.fbx
 - Assets/03_GAME/Models/cactus2.fbx
+- Assets/03_GAME/Anim/Sun.controller
 - Assets/03_GAME/Models/saloon/darken.mat
 - Assets/03_GAME/Prefabs/TextDisplay.prefab
 - Assets/03_GAME/Models/Store/wall.mat
 - Assets/03_GAME/Models/roof.fbx
 - Assets/03_GAME/Models/general_cabin_merged.fbx
 - Assets/03_GAME/Sprites/intersections_deco.png
+- Assets/03_GAME/Sprites/Playspace.png
 - Assets/03_GAME/Sprites/Store Texture.renderTexture
 - Assets/03_GAME/Models/Store/wood.mat
 - Assets/03_GAME/Fonts/Rye-Regular SDF.asset
+- Assets/03_GAME/Anim/sun cycle.anim
 - Assets/03_GAME/Prefabs/Holzmast.prefab
 - Assets/03_GAME/Sprites/House Texture.renderTexture
+- Assets/03_GAME/Anim/fill cycle.anim
 - Assets/03_GAME/Prefabs/Store.prefab
 - Assets/03_GAME/Models/saloon/glass.mat
 - Assets/03_GAME/Models/house.fbx
@@ -172,6 +176,7 @@ Assets:
 - Assets/03_GAME/Sounds/Old Town Road.mp3
 - Assets/03_GAME/Models/Materials/Material.001.mat
 - Assets/03_GAME/Materials/Selected.mat
+- Assets/03_GAME/Fonts/Rye-Regular_new.asset
 - Assets/03_GAME/Models/saloon/wall.mat
 - Assets/03_GAME/Sprites/ao_low poly.png
 - Assets/03_GAME/Models/house/planks.mat
@@ -234,5 +239,6 @@ Assets:
 - Assets/03_GAME/BuildingEffects/Shop_Saloon.asset
 - Assets/03_GAME/Events/ShowSnapPoints.asset
 - Assets/03_GAME/BuildingEffects/House_Saloon.asset
+- Assets/03_GAME/Anim/fill.controller
 Dependencies:
 - D:/CGL/Semester 4/Collaborative Project/BLURP/BLURP/AssetBundles/Android/gameinfo

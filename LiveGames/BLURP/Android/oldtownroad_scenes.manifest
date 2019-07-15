@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 3850053913
+CRC: 3429720003
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 17915bf03e89513815880b2857c0c8e6
+    Hash: f691d6c47c2ff2370c1348460587fdab
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 8fde716db6705ca38f6fab30e41dddc2
+    Hash: c962ca50a0b0b9e31291c2177ba901ad
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -140,5 +140,4 @@ ClassTypes:
 Assets:
 - Assets/03_GAME/Scenes/Old_Town_Road.unity
 Dependencies:
-- D:/CGL/Semester 4/Collaborative Project/BLURP/BLURP/AssetBundles/Android/vandesigner_assets
 - D:/CGL/Semester 4/Collaborative Project/BLURP/BLURP/AssetBundles/Android/oldtownroad_assets
